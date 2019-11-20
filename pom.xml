@@ -65,7 +65,7 @@
         <dependency>
             <groupId>com.rabbitmq</groupId>
             <artifactId>amqp-client</artifactId>
-            <version>4.1.0</version>
+            <version>4.8.0</version>
         </dependency>
     </dependencies>
     <!--指定 源码和编译后的 class 版本-->
